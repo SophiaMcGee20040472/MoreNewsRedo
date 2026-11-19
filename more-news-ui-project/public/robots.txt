@@ -1,0 +1,14 @@
+
+User-agent: *
+
+# Allow public pages to be crawled
+Allow: /
+
+# Keep private areas out of search crawlers
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /login/
+Disallow: /register/
+
+# Sitemap will be added once the site is deployed

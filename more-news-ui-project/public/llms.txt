@@ -1,0 +1,20 @@
+
+# More News
+
+> More News is a modern community news reader powered by the Hacker News API.
+
+## About
+
+More News helps users discover the latest stories, discussions, and discoveries from the Hacker News community.
+
+## Features
+
+- Browse top, new, and best stories.
+- Explore Ask HN, Show HN, jobs, and polls.
+- Sort stories and navigate between pages.
+- Open original articles and discussions.
+
+## Useful Links
+
+- [Hacker News](https://news.ycombinator.com/)
+- [Hacker News API](https://github.com/HackerNews/API)
