@@ -18,7 +18,7 @@ export default function App() {
   const menu = useDisclosure();
 
   return (
-    <Box minH="100vh" bg="#373348" color="white">
+    <Box minH="100vh" bg="#5A2B58" color="white">
       <Box
         as="header"
         position="sticky"
